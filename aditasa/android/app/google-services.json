@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "559531314052",
+    "project_id": "aditasa-e1416",
+    "storage_bucket": "aditasa-e1416.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559531314052:android:b5c7d857749d024dcc6bd1",
+        "android_client_info": {
+          "package_name": "com.example.aditasa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559531314052-ibgcs8qlvg9m4d8fvlr02obo0bmo0o3r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aditasa",
+            "certificate_hash": "38cd4bdcbfb018dffd66eeb0771052cd2a3828da"
+          }
+        },
+        {
+          "client_id": "559531314052-76i3gbpkmr5u7t3uvm69ugtl38vsh58t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmmjaTsXSMNiVDQZcYCCiPDRgEE_PzLOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559531314052-76i3gbpkmr5u7t3uvm69ugtl38vsh58t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
